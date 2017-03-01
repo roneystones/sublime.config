@@ -12,7 +12,9 @@ Packages:
     "Git",
     "Haml",
     "HTML-CSS-JS Prettify",
+    "Jekyll",
     "jQuery",
+    "LiveStyle",
     "Package Control",
     "Sass",
     "SassBeautify",
@@ -36,6 +38,7 @@ Settings:
       "selector": "string.quoted.double.html,string.quoted.single.html, source.css"
     }
   ],
+  
   "auto_indent": true,
   "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
   "fallback_encoding": "UTF-8",
