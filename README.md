@@ -5,6 +5,7 @@ Packages:
 {
   "installed_packages":
   [
+    "AngularJS",
     "AutoFileName",
     "Autoprefixer",
     "Bootstrap 3 Snippets",
