@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AngularJS",
 		"AutoFileName",
 		"Autoprefixer",
 		"Bootstrap 3 Snippets",
@@ -14,6 +15,7 @@
 		"HTML-CSS-JS Prettify",
 		"Jekyll",
 		"jQuery",
+		"LiveStyle",
 		"Package Control",
 		"Sass",
 		"SassBeautify",
